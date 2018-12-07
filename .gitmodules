@@ -1,0 +1,18 @@
+[submodule "Scripts/soci"]
+	path = Scripts/soci
+	url = git@github.com:Manromen/conan-soci-scripts.git
+[submodule "Scripts/cnats"]
+	path = Scripts/cnats
+	url = git@github.com:Manromen/conan-cnats-scripts.git
+[submodule "Scripts/zlib"]
+	path = Scripts/zlib
+	url = git@github.com:Manromen/conan-zlib-scripts.git
+[submodule "Scripts/nlohmann-json"]
+	path = Scripts/nlohmann-json
+	url = git@github.com:Manromen/conan-nlohmann-json-scripts.git
+[submodule "Scripts/libressl"]
+	path = Scripts/libressl
+	url = git@github.com:Manromen/conan-libressl-scripts.git
+[submodule "Scripts/mysql-c-client"]
+	path = Scripts/mysql-c-client
+	url = git@github.com:Manromen/conan-mysql-c-client-scripts.git
