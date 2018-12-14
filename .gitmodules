@@ -16,3 +16,6 @@
 [submodule "Scripts/mysql-c-client"]
 	path = Scripts/mysql-c-client
 	url = git@github.com:Manromen/conan-mysql-c-client-scripts.git
+[submodule "Scripts/sqlite"]
+	path = Scripts/sqlite
+	url = git@github.com:Manromen/conan-sqlite-scripts.git
