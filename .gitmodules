@@ -19,3 +19,9 @@
 [submodule "Scripts/sqlite"]
 	path = Scripts/sqlite
 	url = git@github.com:Manromen/conan-sqlite-scripts.git
+[submodule "Scripts/protobuf-c"]
+	path = Scripts/protobuf-c
+	url = git@github.com:Manromen/conan-protobuf-c-scripts.git
+[submodule "Scripts/protobuf-cpp"]
+	path = Scripts/protobuf-cpp
+	url = git@github.com:Manromen/conan-protobuf-cpp-scripts.git
