@@ -25,3 +25,6 @@
 [submodule "Scripts/protobuf-cpp"]
 	path = Scripts/protobuf-cpp
 	url = git@github.com:Manromen/conan-protobuf-cpp-scripts.git
+[submodule "Scripts/curl"]
+	path = Scripts/curl
+	url = git@github.com:Manromen/conan-curl-scripts.git
