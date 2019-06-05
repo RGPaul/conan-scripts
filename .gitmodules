@@ -28,3 +28,6 @@
 [submodule "Scripts/curl"]
 	path = Scripts/curl
 	url = git@github.com:Manromen/conan-curl-scripts.git
+[submodule "Scripts/godot-cpp"]
+	path = Scripts/godot-cpp
+	url = git@github.com:Manromen/conan-godot-cpp-scripts.git
