@@ -31,3 +31,6 @@
 [submodule "Scripts/godot-cpp"]
 	path = Scripts/godot-cpp
 	url = git@github.com:Manromen/conan-godot-cpp-scripts.git
+[submodule "Scripts/openldap"]
+	path = Scripts/openldap
+	url = git@github.com:Manromen/conan-openldap-scripts.git
