@@ -34,3 +34,6 @@
 [submodule "Scripts/openldap"]
 	path = Scripts/openldap
 	url = git@github.com:Manromen/conan-openldap-scripts.git
+[submodule "Scripts/djinni"]
+	path = Scripts/djinni
+	url = git@github.com:Manromen/conan-djinni-scripts.git
