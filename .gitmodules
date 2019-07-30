@@ -37,3 +37,6 @@
 [submodule "Scripts/djinni"]
 	path = Scripts/djinni
 	url = git@github.com:Manromen/conan-djinni-scripts.git
+[submodule "Scripts/boost"]
+	path = Scripts/boost
+	url = git@github.com:Manromen/conan-boost-scripts.git
