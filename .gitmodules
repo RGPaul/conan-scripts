@@ -1,42 +1,42 @@
 [submodule "Scripts/soci"]
 	path = Scripts/soci
-	url = git@github.com:Manromen/conan-soci-scripts.git
+	url = git@github.com:RGPaul/conan-soci-scripts.git
 [submodule "Scripts/cnats"]
 	path = Scripts/cnats
-	url = git@github.com:Manromen/conan-cnats-scripts.git
+	url = git@github.com:RGPaul/conan-cnats-scripts.git
 [submodule "Scripts/zlib"]
 	path = Scripts/zlib
-	url = git@github.com:Manromen/conan-zlib-scripts.git
+	url = git@github.com:RGPaul/conan-zlib-scripts.git
 [submodule "Scripts/nlohmann-json"]
 	path = Scripts/nlohmann-json
-	url = git@github.com:Manromen/conan-nlohmann-json-scripts.git
+	url = git@github.com:RGPaul/conan-nlohmann-json-scripts.git
 [submodule "Scripts/libressl"]
 	path = Scripts/libressl
-	url = git@github.com:Manromen/conan-libressl-scripts.git
+	url = git@github.com:RGPaul/conan-libressl-scripts.git
 [submodule "Scripts/mysql-c-client"]
 	path = Scripts/mysql-c-client
-	url = git@github.com:Manromen/conan-mysql-c-client-scripts.git
+	url = git@github.com:RGPaul/conan-mysql-c-client-scripts.git
 [submodule "Scripts/sqlite"]
 	path = Scripts/sqlite
-	url = git@github.com:Manromen/conan-sqlite-scripts.git
+	url = git@github.com:RGPaul/conan-sqlite-scripts.git
 [submodule "Scripts/protobuf-c"]
 	path = Scripts/protobuf-c
-	url = git@github.com:Manromen/conan-protobuf-c-scripts.git
+	url = git@github.com:RGPaul/conan-protobuf-c-scripts.git
 [submodule "Scripts/protobuf-cpp"]
 	path = Scripts/protobuf-cpp
-	url = git@github.com:Manromen/conan-protobuf-cpp-scripts.git
+	url = git@github.com:RGPaul/conan-protobuf-cpp-scripts.git
 [submodule "Scripts/curl"]
 	path = Scripts/curl
-	url = git@github.com:Manromen/conan-curl-scripts.git
+	url = git@github.com:RGPaul/conan-curl-scripts.git
 [submodule "Scripts/godot-cpp"]
 	path = Scripts/godot-cpp
-	url = git@github.com:Manromen/conan-godot-cpp-scripts.git
+	url = git@github.com:RGPaul/conan-godot-cpp-scripts.git
 [submodule "Scripts/openldap"]
 	path = Scripts/openldap
-	url = git@github.com:Manromen/conan-openldap-scripts.git
+	url = git@github.com:RGPaul/conan-openldap-scripts.git
 [submodule "Scripts/djinni"]
 	path = Scripts/djinni
-	url = git@github.com:Manromen/conan-djinni-scripts.git
+	url = git@github.com:RGPaul/conan-djinni-scripts.git
 [submodule "Scripts/boost"]
 	path = Scripts/boost
-	url = git@github.com:Manromen/conan-boost-scripts.git
+	url = git@github.com:RGPaul/conan-boost-scripts.git
